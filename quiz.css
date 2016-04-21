@@ -8,7 +8,7 @@
 }
 
 .card-header-block {
-  height: 50px;
+  height: 80px;
   display: block;
   border-style: dotted;
   border-color: lightgray;
@@ -36,7 +36,7 @@
 
 .details {
   font-weight: bold;
-
+  padding-left:12px;
 }
 
 footer {
