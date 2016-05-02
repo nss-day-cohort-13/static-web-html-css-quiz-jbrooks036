@@ -29,6 +29,11 @@
   margin-right: auto;
 }
 
+.description {
+  text-align: justify;
+  text-justify: inter-word;
+
+}
 .availability {
   background: grey;
   color: yellow; 
