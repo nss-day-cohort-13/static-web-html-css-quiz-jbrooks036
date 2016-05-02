@@ -13,30 +13,36 @@
   border-style: dotted;
   border-color: lightgray;
   border-width: 1px;
+  padding-bottom: 15px; 
+
 }
 .card-header {
   text-align: center;
-  font-size: 175%; 
+  font-size: 175%;
 }
 
 .spec-header {
   font-size: 125%;
+  padding-top: 15px;
 }
 
 .displayed {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  padding-bottom: 15px;
+  padding-top: 15px;
 }
 
 .description {
   text-align: justify;
   text-justify: inter-word;
-
+  padding-bottom: 15px;
 }
 .availability {
   background: grey;
   color: yellow; 
+  /*margin-bottom: 15px;  */
 }
 
 .details {
